@@ -24,7 +24,7 @@ export const Header = styled(FlexContainer)``
 
 export const H1 = styled.h1`
   font-family: 'Pacifico', cursive;
-  font-size: 60px;
+  font-size: 40px;
   color: #ff0000;
   margin: 0;
 `
