@@ -6,10 +6,10 @@ export default () => (
   <>
     <Head>
       <title>Stuf</title>
-      <link rel="icon" href="/favicon.ico" />
+      <link rel='icon' href='/favicon.ico' />
       <link
-        href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
-        rel="stylesheet"
+        href='https://fonts.googleapis.com/css2?family=Pacifico&display=swap'
+        rel='stylesheet'
       ></link>
     </Head>
 
